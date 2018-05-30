@@ -25569,24 +25569,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\X1\\.nuget\\packages\\": {},
+    "C:\\Users\\User\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Uni\\period8\\C#2\\UWP-notes\\UWP-notes\\UWP-notes.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\UWP-notes\\UWP-notes\\UWP-notes.csproj",
       "projectName": "UWP-notes",
-      "projectPath": "C:\\Uni\\period8\\C#2\\UWP-notes\\UWP-notes\\UWP-notes.csproj",
-      "packagesPath": "C:\\Users\\X1\\.nuget\\packages\\",
-      "outputPath": "C:\\Uni\\period8\\C#2\\UWP-notes\\UWP-notes\\obj\\",
+      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\UWP-notes\\UWP-notes\\UWP-notes.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\UWP-notes\\UWP-notes\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\X1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
